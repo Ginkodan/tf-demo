@@ -22,7 +22,7 @@ variable "instance_type" {
 
 variable "subnet" {
   type = string
-  default = "subnet-01a4fdab38dabcf25"
+  default = "subnet-08b96e899107e6d4c"
 }
 
 variable "aws_keypair" {
